@@ -17,3 +17,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## Opening the swagger
+
+```bash
+$ http://localhost:8080/api-doc in browser
+```
