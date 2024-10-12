@@ -1,3 +1,9 @@
+## Project Set-up
+
+```bash
+$ git clone https://github.com/Govindsavaliya/unitask-practical-task.git
+```
+
 ## Installation
 
 ```bash
